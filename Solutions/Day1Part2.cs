@@ -4,7 +4,7 @@ namespace AdventCode25.Solutions;
 
 public class Day1Part2
 {
-    public static async Task SolveDay2()
+    public static async Task SolveDay1Part2()
     {
         var lines = await FileReader.ReadLinesAsync(1,1);
 

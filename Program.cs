@@ -6,6 +6,6 @@ public class Program
 {
     public static async Task Main(string[] args)
     {
-        await Day1Part2.SolveDay2();
+        await Day2Part1.SolveDay2Part1();
     }
 }
